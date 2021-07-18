@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Ananya!
 
-<!--
-**Ananyag2806/Ananyag2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a final year CS student.
+- 🌱 I’m currently learning MERN.
+- 💬 Ask me about JavaScript, React, CSS.
+<!-- - 📫 How to reach me:  -->
 
-Here are some ideas to get you started:
+<h3 align="left">Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananyag2806&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyag2806&show_icons=true&theme=gotham" width="48%" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyag2806&layout=compact&show_icons=true&theme=gotham)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ananyeahgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="linkedin.com/in/ananya-gupta-1a69b5181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
