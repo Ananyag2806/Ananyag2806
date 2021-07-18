@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ananya!
 
-- 🔭 I’m currently a final year CS student.
+- 🔭 I’m a final year Computer Science student.
 - 🌱 I’m currently learning MERN.
 - 💬 Ask me about JavaScript, React, CSS.
 <!-- - 📫 How to reach me:  -->
