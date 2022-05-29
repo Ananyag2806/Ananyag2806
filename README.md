@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Ananya!
-
+- 🟦 I'm going to be working at Citi as a software analyst!!!!!!!!!!!!!!!!!!!!!!
 - 🔭 I’m a final year Computer Science student.
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently making a project where you can see, share and show off your best chess moves.
 - 💬 Ask me about JavaScript, React, CSS.
+- I love to play videogames, chess and basketball.
+- 
 <!-- - 📫 How to reach me:  -->
 
 <h3 align="left">Stats:</h3>
