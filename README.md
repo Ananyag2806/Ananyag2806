@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Ananya!
-- 🟦 I'm going to be working at Citi as a software analyst!!!!!!!!!!!!!!!!!!!!!!
-- 🔭 I’m a final year Computer Science student.
+- 🟦 I am a tech analyst at Citi!
 - 🌱 I’m currently making a project where you can see, share and show off your best chess moves.
 - 💬 Ask me about JavaScript, React, CSS.
 - I love to play videogames, chess and basketball.
